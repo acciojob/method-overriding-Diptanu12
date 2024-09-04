@@ -1,6 +1,6 @@
 package com.driver.test;
 
-import com.driver.B;
+import com.driver.Main.B;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
